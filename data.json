@@ -1,0 +1,260 @@
+{
+  "blackstoneRecipes": [
+    {
+      "id": "1",
+      "title": "Classic Blackstone Smash Burgers",
+      "category": "burgers",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "1 lb (450g) 80/20 ground beef",
+        "1 tsp kosher salt",
+        "1 tsp black pepper",
+        "4 brioche buns",
+        "4 slices American cheese",
+        "2 tbsp butter"
+      ],
+      "steps": [
+        "Preheat Blackstone to high heat (450–500°F). Lightly oil surface.",
+        "Divide beef into 4 loose balls (do not compress).",
+        "Place beef on hot surface and immediately smash thin using a heavy spatula.",
+        "Season generously with salt and pepper.",
+        "Cook undisturbed 2–3 minutes until crispy edges form.",
+        "Flip using scraper, add cheese, cook 1–2 more minutes.",
+        "Toast buttered buns on medium zone.",
+        "Assemble and serve immediately."
+      ],
+      "premium": false
+    },
+    {
+      "id": "2",
+      "title": "Blackstone Chicken Fajitas",
+      "category": "mexican",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 chicken breasts, sliced thin",
+        "1 red bell pepper",
+        "1 green bell pepper",
+        "1 onion",
+        "2 tbsp olive oil",
+        "1 tbsp fajita seasoning",
+        "8 flour tortillas"
+      ],
+      "steps": [
+        "Preheat griddle to medium-high (400°F).",
+        "Toss chicken with oil and seasoning.",
+        "Cook chicken 6–8 minutes until internal temp reaches 165°F.",
+        "Move chicken to cooler zone.",
+        "Cook peppers and onions until softened and slightly charred.",
+        "Combine and heat through.",
+        "Warm tortillas on low heat zone.",
+        "Serve hot."
+      ],
+      "premium": false
+    },
+    {
+      "id": "3",
+      "title": "Blackstone Breakfast Hash with Eggs",
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "3 cups diced russet potatoes",
+        "1 lb breakfast sausage",
+        "1 diced onion",
+        "1 diced bell pepper",
+        "4 large eggs",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat one zone to medium (375°F) and one to low.",
+        "Cook sausage until browned (internal 160°F). Move aside.",
+        "Add potatoes with oil and cook 12–15 minutes until crispy.",
+        "Add onion and pepper; cook until softened.",
+        "Mix sausage back in.",
+        "Create wells and crack eggs into wells.",
+        "Cook until whites set and yolks reach preference."
+      ],
+      "premium": false
+    },
+    {
+      "id": "4",
+      "title": "Blackstone Street Corn (Elote)",
+      "category": "sides",
+      "image": "https://images.unsplash.com/photo-1604908177522-402f3c4c7c15?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "4 ears fresh corn",
+        "2 tbsp butter",
+        "1/4 cup mayonnaise",
+        "1/4 cup cotija cheese",
+        "1 tsp chili powder",
+        "1 lime"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F).",
+        "Place corn directly on surface and rotate every 2–3 minutes.",
+        "Cook until evenly charred (8–10 minutes total).",
+        "Brush with butter.",
+        "Spread thin layer of mayo.",
+        "Sprinkle cotija and chili powder.",
+        "Finish with fresh lime juice."
+      ],
+      "premium": false
+    },
+    {
+      "id": "5",
+      "title": "Blackstone Pancakes",
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "2 cups pancake mix",
+        "1 1/2 cups milk",
+        "2 eggs",
+        "2 tbsp melted butter"
+      ],
+      "steps": [
+        "Preheat griddle to 350°F (medium-low).",
+        "Mix batter until smooth.",
+        "Lightly grease surface.",
+        "Pour 1/4 cup batter per pancake.",
+        "Cook until bubbles form (2–3 minutes).",
+        "Flip and cook another 2 minutes until golden."
+      ],
+      "premium": false
+    },
+    {
+      "id": "6",
+      "title": "Blackstone Grilled Cheese",
+      "category": "burgers",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "servings": 2,
+      "ingredients": [
+        "4 slices sourdough bread",
+        "4 slices cheddar cheese",
+        "2 tbsp butter"
+      ],
+      "steps": [
+        "Preheat to medium (350°F).",
+        "Butter bread evenly.",
+        "Place butter-side down.",
+        "Add cheese and top slice.",
+        "Cook 2–3 minutes per side until golden."
+      ],
+      "premium": false
+    },
+    {
+      "id": "7",
+      "title": "Blackstone Hibachi Chicken Fried Rice",
+      "category": "rice",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 cups day-old jasmine rice",
+        "2 chicken breasts",
+        "2 eggs",
+        "1 cup mixed vegetables",
+        "3 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "steps": [
+        "Preheat to medium-high (400°F).",
+        "Cook diced chicken to 165°F internal.",
+        "Scramble eggs separately.",
+        "Add vegetables and cook until tender.",
+        "Add rice and break apart.",
+        "Add soy sauce and sesame oil.",
+        "Combine everything and cook until lightly crisped."
+      ],
+      "premium": true
+    },
+    {
+      "id": "8",
+      "title": "Blackstone Garlic Butter Ribeye Steak",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "2 ribeye steaks (1-inch thick)",
+        "Salt",
+        "Black pepper",
+        "2 tbsp butter",
+        "3 garlic cloves"
+      ],
+      "steps": [
+        "Preheat griddle to high (500°F).",
+        "Season steaks generously.",
+        "Sear 3–4 minutes per side.",
+        "Reduce heat slightly and add butter and garlic.",
+        "Baste steaks until internal temp reaches 130°F for medium-rare.",
+        "Rest 5–10 minutes before slicing."
+      ],
+      "premium": true
+    },
+    {
+      "id": "9",
+      "title": "Blackstone Shrimp Tacos",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1617196035154-1e0f1a3b5c12?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "1 lb shrimp, peeled",
+        "1 tbsp olive oil",
+        "1 tbsp taco seasoning",
+        "8 corn tortillas"
+      ],
+      "steps": [
+        "Preheat to medium-high (400°F).",
+        "Season shrimp.",
+        "Cook 2–3 minutes per side until internal temp 120–125°F.",
+        "Warm tortillas.",
+        "Assemble tacos and serve."
+      ],
+      "premium": true
+    },
+    {
+      "id": "10",
+      "title": "Blackstone Veggie Stir Fry",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "1 zucchini",
+        "1 bell pepper",
+        "1 cup broccoli",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "steps": [
+        "Preheat to medium-high (400°F).",
+        "Add oil and vegetables.",
+        "Cook 6–8 minutes until tender-crisp.",
+        "Add soy sauce.",
+        "Cook 1–2 more minutes and serve."
+      ],
+      "premium": true
+    }
+  ]
+}
