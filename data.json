@@ -1592,3 +1592,554 @@
     }
   ]
 }
+{
+  "blackstoneRecipes": [
+    {
+      "id": "61",
+      "title": "Blackstone Nashville Hot Chicken Sandwich",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?w=800",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "4 chicken breasts",
+        "1 cup buttermilk",
+        "1 tbsp hot sauce",
+        "1 cup flour",
+        "1 tbsp cayenne pepper",
+        "1 tsp paprika",
+        "Salt",
+        "Oil for cooking",
+        "4 brioche buns",
+        "Pickles"
+      ],
+      "steps": [
+        "Marinate chicken in buttermilk and hot sauce for at least 1 hour.",
+        "Preheat griddle to medium-high (400°F) and lightly oil surface.",
+        "Combine flour, cayenne, paprika and salt.",
+        "Dredge chicken thoroughly in seasoned flour.",
+        "Cook chicken 6–7 minutes per side until crust forms and internal temperature reaches 165°F.",
+        "Mix hot oil with extra cayenne to create hot glaze and brush over chicken.",
+        "Toast buns on medium zone.",
+        "Assemble sandwich with pickles and serve."
+      ],
+      "premium": true
+    },
+    {
+      "id": "62",
+      "title": "Blackstone Chimichurri Skirt Steak",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 lbs skirt steak",
+        "Salt",
+        "Black pepper",
+        "1 tbsp olive oil",
+        "1 cup fresh parsley",
+        "2 cloves garlic",
+        "1/4 cup olive oil",
+        "2 tbsp red wine vinegar"
+      ],
+      "steps": [
+        "Preheat griddle to high (500°F).",
+        "Pat steak dry and season generously.",
+        "Sear 3–4 minutes per side until internal temperature reaches 130°F for medium-rare.",
+        "Rest steak 5–10 minutes.",
+        "Prepare chimichurri by mixing parsley, garlic, olive oil and vinegar.",
+        "Slice steak against the grain.",
+        "Spoon chimichurri over sliced steak before serving."
+      ],
+      "premium": true
+    },
+    {
+      "id": "63",
+      "title": "Blackstone Lobster Grilled Cheese",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1559847844-d721426d6edc?w=800",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 cup cooked lobster meat",
+        "8 slices sourdough bread",
+        "8 slices white cheddar",
+        "3 tbsp butter",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F).",
+        "Lightly season lobster meat.",
+        "Butter one side of each bread slice.",
+        "Place bread butter-side down.",
+        "Add cheese, lobster evenly distributed, then top with another slice.",
+        "Cook 3–4 minutes per side until golden brown and cheese fully melted.",
+        "Ensure lobster is heated to 145°F internal temperature."
+      ],
+      "premium": true
+    },
+    {
+      "id": "64",
+      "title": "Blackstone Birria Tacos",
+      "category": "mexican",
+      "image": "https://images.unsplash.com/photo-1613514785940-daed07799d9b?w=800",
+      "prepTime": 45,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "3 cups cooked shredded beef birria",
+        "8 corn tortillas",
+        "1 cup Oaxaca cheese",
+        "Birria consommé",
+        "Chopped onion and cilantro"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F).",
+        "Dip tortillas lightly in birria consommé.",
+        "Place tortilla on griddle and add beef and cheese.",
+        "Fold taco and cook 2–3 minutes per side until crispy and golden.",
+        "Ensure filling reaches 165°F.",
+        "Serve with extra consommé for dipping."
+      ],
+      "premium": true
+    },
+    {
+      "id": "65",
+      "title": "Blackstone Cajun Lobster and Shrimp",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1559847844-d721426d6edc?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 lb lobster tail meat",
+        "1 lb large shrimp",
+        "1 tbsp Cajun seasoning",
+        "2 tbsp butter",
+        "Salt"
+      ],
+      "steps": [
+        "Preheat one zone to medium-high (400°F).",
+        "Season seafood lightly.",
+        "Cook lobster 4–5 minutes until internal temperature reaches 140°F.",
+        "Cook shrimp 2–3 minutes per side until 120–125°F.",
+        "Add butter and toss together briefly.",
+        "Serve immediately."
+      ],
+      "premium": true
+    },
+    {
+      "id": "66",
+      "title": "Blackstone Stuffed Breakfast Burrito",
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1601924582975-7d2b4b6c90f7?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "6 eggs",
+        "1/2 lb chorizo",
+        "1 cup hash browns",
+        "1 cup shredded cheddar",
+        "4 large tortillas"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F).",
+        "Cook chorizo until internal temp reaches 160°F.",
+        "Cook hash browns until crispy.",
+        "Scramble eggs until internal temp reaches 160°F.",
+        "Layer ingredients inside tortillas.",
+        "Roll tightly and toast seam-side down 2–3 minutes per side."
+      ],
+      "premium": true
+    },
+    {
+      "id": "67",
+      "title": "Blackstone Garlic Parmesan Steak Bites",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1.5 lbs sirloin steak, cubed",
+        "2 tbsp butter",
+        "3 cloves garlic",
+        "1/2 cup grated Parmesan",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat griddle to high (450°F).",
+        "Season steak cubes evenly.",
+        "Sear 2–3 minutes per side until internal temperature reaches 135–140°F.",
+        "Add butter and garlic and sauté briefly.",
+        "Remove from heat and toss with Parmesan immediately.",
+        "Serve hot."
+      ],
+      "premium": true
+    },
+    {
+      "id": "68",
+      "title": "Blackstone Korean BBQ Chicken",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1604908554168-15a01b1d9b67?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 lbs chicken thighs",
+        "1/2 cup Korean BBQ sauce",
+        "1 tbsp sesame oil",
+        "Salt"
+      ],
+      "steps": [
+        "Preheat griddle to medium-high (400°F).",
+        "Cook chicken 5–6 minutes per side until internal temp reaches 165°F.",
+        "Brush Korean BBQ sauce during last 2 minutes.",
+        "Allow sauce to caramelize slightly.",
+        "Rest 5 minutes before slicing."
+      ],
+      "premium": true
+    },
+    {
+      "id": "69",
+      "title": "Blackstone Seafood Paella",
+      "category": "rice",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800",
+      "prepTime": 45,
+      "difficulty": "Hard",
+      "servings": 6,
+      "ingredients": [
+        "2 cups short-grain rice",
+        "1 lb shrimp",
+        "1 lb mussels",
+        "1/2 lb chorizo",
+        "4 cups seafood broth",
+        "1 tsp saffron",
+        "1 tbsp olive oil"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F).",
+        "Cook chorizo until internal temp reaches 160°F and remove.",
+        "Add oil and toast rice lightly for 2–3 minutes.",
+        "Add broth and saffron evenly.",
+        "Simmer uncovered 15–18 minutes without stirring.",
+        "Add shrimp and mussels on top.",
+        "Cook until shrimp reach 120–125°F and mussels open fully.",
+        "Allow rice to develop slight crust before serving."
+      ],
+      "premium": true
+    },
+    {
+      "id": "70",
+      "title": "Blackstone Tomahawk Steak",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "prepTime": 50,
+      "difficulty": "Hard",
+      "servings": 2,
+      "ingredients": [
+        "1 large tomahawk ribeye (2 inches thick)",
+        "Salt",
+        "Black pepper",
+        "2 tbsp butter",
+        "2 cloves garlic",
+        "Fresh rosemary"
+      ],
+      "steps": [
+        "Preheat one zone to high (500°F) and one to medium (400°F).",
+        "Season steak generously and let sit 30 minutes at room temperature.",
+        "Sear 4–5 minutes per side on high zone.",
+        "Move to medium zone and cook until internal temp reaches 125°F for medium-rare.",
+        "Add butter, garlic and rosemary during final minutes and baste.",
+        "Rest steak 10 minutes before slicing."
+      ],
+      "premium": true
+    },
+{
+  "blackstoneRecipes": [
+    {
+      "id": "71",
+      "title": "Blackstone Crunchwrap Supreme",
+      "category": "mexican",
+      "image": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 lb ground beef",
+        "1 tbsp taco seasoning",
+        "4 large flour tortillas",
+        "4 tostada shells",
+        "1 cup nacho cheese sauce",
+        "1 cup shredded lettuce",
+        "1 cup diced tomatoes",
+        "1 cup shredded Mexican cheese",
+        "Sour cream"
+      ],
+      "steps": [
+        "Preheat Blackstone to medium (375°F) creating one hot zone and one cooler zone.",
+        "Cook ground beef on the hot zone, breaking it apart with a scraper until fully browned. Continue cooking until internal temperature reaches 160°F.",
+        "Drain excess grease and mix in taco seasoning with 2–3 tablespoons water. Simmer 2 minutes until thickened.",
+        "Warm tortillas briefly on the cooler zone to make them pliable.",
+        "Layer beef in the center of tortilla, add nacho cheese, place tostada shell on top, then add sour cream, lettuce, tomatoes and shredded cheese.",
+        "Fold edges inward in overlapping pattern to seal.",
+        "Place seam-side down on lightly oiled griddle and cook 2–3 minutes until golden brown.",
+        "Flip carefully and cook additional 2–3 minutes until crisp and heated through (internal temp at least 165°F)."
+      ],
+      "premium": true
+    },
+    {
+      "id": "72",
+      "title": "Blackstone Smash Burger Tacos",
+      "category": "burgers",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 lb ground beef (80/20)",
+        "8 small flour tortillas",
+        "8 slices American cheese",
+        "Salt and pepper",
+        "Diced onions",
+        "Pickles",
+        "Burger sauce"
+      ],
+      "steps": [
+        "Preheat griddle to high (450–475°F).",
+        "Press a thin layer of ground beef directly onto one side of each tortilla.",
+        "Place tortilla beef-side down on hot surface and smash firmly with spatula to create full contact.",
+        "Season immediately with salt and pepper.",
+        "Cook undisturbed 2–3 minutes until edges crisp and beef reaches 160°F.",
+        "Flip tortilla so tortilla side touches surface and add cheese.",
+        "Cook 1–2 minutes until cheese melts and tortilla lightly crisps.",
+        "Top with onions, pickles and burger sauce before serving."
+      ],
+      "premium": true
+    },
+    {
+      "id": "73",
+      "title": "Blackstone Chicken Street Corn Bowls",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 lbs chicken thighs",
+        "2 cups corn kernels",
+        "1 tsp chili powder",
+        "1/2 cup cotija cheese",
+        "1 cup rice",
+        "1 tbsp oil",
+        "Lime wedges"
+      ],
+      "steps": [
+        "Preheat one zone to medium-high (400°F).",
+        "Season chicken and cook 5–6 minutes per side until internal temperature reaches 165°F.",
+        "Move chicken to rest for 5 minutes before slicing.",
+        "On medium zone, sauté corn in oil until lightly charred (about 5–6 minutes).",
+        "Season corn with chili powder and a squeeze of lime.",
+        "Assemble bowls with rice, sliced chicken and charred corn.",
+        "Finish with cotija cheese and extra lime."
+      ],
+      "premium": true
+    },
+    {
+      "id": "74",
+      "title": "Blackstone Hibachi Steak and Vegetables",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800",
+      "prepTime": 40,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1.5 lbs sirloin steak, cubed",
+        "2 zucchinis, sliced",
+        "1 onion, sliced",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "2 tbsp butter"
+      ],
+      "steps": [
+        "Preheat griddle to medium-high (425°F).",
+        "Add sesame oil and sear steak cubes in single layer.",
+        "Cook 2–3 minutes per side until internal temperature reaches 135–140°F.",
+        "Move steak to cooler zone.",
+        "Add butter and cook vegetables 5–6 minutes until tender but still slightly crisp.",
+        "Return steak to vegetables and drizzle soy sauce.",
+        "Toss continuously for 1–2 minutes allowing sauce to reduce slightly."
+      ],
+      "premium": true
+    },
+    {
+      "id": "75",
+      "title": "Blackstone Loaded Chicken Philly Fries",
+      "category": "sides",
+      "image": "https://images.unsplash.com/photo-1601924638867-3ecfbe0e06a0?w=800",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "4 cups cooked French fries",
+        "1 lb thin sliced chicken",
+        "1 onion, sliced",
+        "1 green bell pepper",
+        "1 cup provolone cheese"
+      ],
+      "steps": [
+        "Preheat griddle to medium-high (400°F).",
+        "Cook chicken in single layer until internal temperature reaches 165°F.",
+        "Add onions and peppers and cook until softened and lightly caramelized.",
+        "Spread fries in foil tray on griddle.",
+        "Top fries with chicken mixture and provolone cheese.",
+        "Cover with dome lid and allow cheese to fully melt before serving."
+      ],
+      "premium": true
+    }
+  ]
+}
+{
+  "blackstoneRecipes": [
+    {
+      "id": "76",
+      "title": "Blackstone Breakfast Crunchwrap",
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1601924582975-7d2b4b6c90f7?w=800",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "6 large eggs",
+        "1/2 lb breakfast sausage",
+        "4 hash brown patties",
+        "4 large flour tortillas",
+        "4 tostada shells",
+        "1 cup shredded cheddar cheese",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F), setting up one hot zone and one cooler zone.",
+        "Cook sausage on the hot zone, breaking apart and cooking until internal temperature reaches 160°F. Move to cooler zone.",
+        "Cook hash brown patties until deeply golden and crispy on both sides (about 4–5 minutes per side).",
+        "Whisk eggs with salt and pepper. Pour onto lightly buttered surface and scramble until fully set (internal 160°F).",
+        "Warm tortillas briefly to make pliable.",
+        "Layer eggs, sausage, hash brown, and cheese in center of tortilla.",
+        "Place tostada shell on top and fold tortilla edges inward.",
+        "Cook seam-side down 2–3 minutes until golden and sealed. Flip and cook additional 2 minutes."
+      ],
+      "premium": true
+    },
+    {
+      "id": "77",
+      "title": "Blackstone BBQ Chicken Flatbread",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1548365328-8b849e6a3f8b?w=800",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 flatbreads",
+        "2 cooked chicken breasts, diced",
+        "1/2 cup BBQ sauce",
+        "1 1/2 cups shredded mozzarella",
+        "1/4 cup red onion, thinly sliced"
+      ],
+      "steps": [
+        "Preheat griddle to medium-low (350°F).",
+        "Brush bottom of flatbread lightly with oil and place on griddle.",
+        "Cook 2–3 minutes until underside begins to crisp.",
+        "Flip flatbread and spread BBQ sauce evenly.",
+        "Add diced chicken (heated to 165°F) and mozzarella.",
+        "Top with red onions.",
+        "Cover with dome lid and cook until cheese fully melts and bottom is golden crisp."
+      ],
+      "premium": true
+    },
+    {
+      "id": "78",
+      "title": "Blackstone Bang Bang Shrimp Tacos",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1613514785940-daed07799d9b?w=800",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 lb shrimp",
+        "1/2 cup cornstarch",
+        "1 tbsp oil",
+        "8 corn tortillas",
+        "1/2 cup bang bang sauce",
+        "Shredded cabbage"
+      ],
+      "steps": [
+        "Preheat griddle to medium-high (400°F).",
+        "Pat shrimp dry and coat lightly in cornstarch.",
+        "Add oil to surface and cook shrimp 2–3 minutes per side until internal temp reaches 120–125°F and exterior crisps.",
+        "Warm tortillas on cooler zone.",
+        "Toss shrimp in bang bang sauce.",
+        "Assemble tacos with shrimp and shredded cabbage.",
+        "Serve immediately while shrimp remains crisp."
+      ],
+      "premium": true
+    },
+    {
+      "id": "79",
+      "title": "Blackstone Garlic Butter Mushroom Steak Sandwich",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "prepTime": 35,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1.5 lbs sirloin steak",
+        "1 cup sliced mushrooms",
+        "2 tbsp butter",
+        "4 hoagie rolls",
+        "4 slices provolone cheese",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat griddle to high (450°F).",
+        "Season steak generously.",
+        "Sear 3–4 minutes per side until internal temperature reaches 130–135°F.",
+        "Rest steak 5–10 minutes before slicing thin.",
+        "Lower heat to medium and sauté mushrooms in butter until golden and softened.",
+        "Combine sliced steak with mushrooms and heat briefly.",
+        "Place mixture into toasted hoagie rolls, top with provolone, and allow cheese to melt."
+      ],
+      "premium": true
+    },
+    {
+      "id": "80",
+      "title": "Blackstone Chicken Bacon Ranch Quesadilla",
+      "category": "mexican",
+      "image": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 cups cooked diced chicken",
+        "6 strips cooked bacon, chopped",
+        "1 cup shredded cheddar",
+        "4 large flour tortillas",
+        "1/4 cup ranch dressing",
+        "1 tbsp butter"
+      ],
+      "steps": [
+        "Preheat griddle to medium (375°F).",
+        "Ensure chicken is heated to 165°F before assembling.",
+        "Butter cooking surface lightly.",
+        "Place tortilla flat and spread ranch lightly over surface.",
+        "Add chicken, bacon and cheese evenly.",
+        "Fold tortilla in half and cook 2–3 minutes per side until golden brown and cheese fully melted.",
+        "Allow to rest 1–2 minutes before slicing."
+      ],
+      "premium": true
+    }
+  ]
+}
