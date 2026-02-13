@@ -257,11 +257,8 @@
         "Cook 1–2 more minutes and serve."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "11",
       "title": "Blackstone Philly Cheesesteak",
@@ -514,11 +511,8 @@
         "Cook until crust is crisp and cheese melted."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "21",
       "title": "Blackstone Garlic Parmesan Chicken Wings",
@@ -785,11 +779,8 @@
         "Serve immediately."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "31",
       "title": "Blackstone Chicken Bacon Ranch Wraps",
@@ -1048,11 +1039,8 @@
         "Toss quickly and remove immediately to avoid overcooking."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "41",
       "title": "Blackstone Classic Patty Melt",
@@ -1319,11 +1307,8 @@
         "Toss thoroughly and cook 1–2 minutes more before serving."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "51",
       "title": "Blackstone Classic Breakfast Sandwich",
@@ -1589,11 +1574,8 @@
         "Rest chicken 5 minutes before serving."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "61",
       "title": "Blackstone Nashville Hot Chicken Sandwich",
@@ -1859,8 +1841,7 @@
       ],
       "premium": true
     },
-{
-  "blackstoneRecipes": [
+
     {
       "id": "71",
       "title": "Blackstone Crunchwrap Supreme",
@@ -2000,11 +1981,8 @@
         "Cover with dome lid and allow cheese to fully melt before serving."
       ],
       "premium": true
-    }
-  ]
-}
-{
-  "blackstoneRecipes": [
+    },
+
     {
       "id": "76",
       "title": "Blackstone Breakfast Crunchwrap",
