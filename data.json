@@ -887,7 +887,7 @@
         "Top with coleslaw.",
         "Serve hot."
       ],
-      "premium": false
+      "premium": true
     },
     {
       "id": "35",
@@ -1145,7 +1145,7 @@
         "Divide into portions, top with cheese, allow to melt.",
         "Transfer to toasted hoagie rolls."
       ],
-      "premium": false
+      "premium": true
     },
     {
       "id": "45",
@@ -1330,7 +1330,7 @@
         "Place cheese slice over sausage to melt slightly.",
         "Assemble sandwich with muffin, sausage, egg, cheese, and top muffin."
       ],
-      "premium": false
+      "premium": true
     },
     {
       "id": "52",
